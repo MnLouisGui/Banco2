@@ -4,6 +4,6 @@ public class P_individual extends Plano{
     }
 
     @Override public void tipo(){
-        System.out.println("Tipo de plano: Coletivo");
+        System.out.println("Tipo de plano: individual");
     }
 }
