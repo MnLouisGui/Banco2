@@ -1,4 +1,4 @@
-public class Plano {
+public abstract class Plano {
     private String nome;
 
 

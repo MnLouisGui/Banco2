@@ -1,4 +1,4 @@
-public class Cliente {
+public abstract class Cliente {
     private String nome;
     private int tipo; // "0" para pj  // "1" para pf
     private String codigo_uni;
